@@ -1,0 +1,5 @@
+jsonschema
+websockets
+elasticsearch==7.13.4
+importlib-resources
+requests_aws4auth
